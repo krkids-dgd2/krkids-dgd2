@@ -1,5 +1,6 @@
 //생성한 모듈을 다른 스크립트 파일에서 추출할때는
 //require()함수를 사용합니다
+//CHANGE
 
 //모듈을 추출합니다
 var mymodule = require('./mymodule.js');
